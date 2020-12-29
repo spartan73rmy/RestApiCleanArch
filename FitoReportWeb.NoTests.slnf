@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "FitoReportWeb.sln",
+    "projects": [
+      "FitoReport.Application\\Application.csproj",
+      "FitoReport.Common\\Common.csproj",
+      "FitoReport.Domain\\Domain.csproj",
+      "FitoReport.Infraestructure\\Infraestructure.csproj",
+      "FitoReport.Persistence\\Persistence.csproj",
+      "FitoReport.WebUi\\WebUi.csproj"
+    ]
+  }
+}

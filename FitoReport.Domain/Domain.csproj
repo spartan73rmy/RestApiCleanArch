@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <AssemblyName>FitoReport.Domain</AssemblyName>
+    <RootNamespace>FitoReport.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>
