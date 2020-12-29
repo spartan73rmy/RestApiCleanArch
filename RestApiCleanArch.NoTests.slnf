@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "RestApiCleanArchWeb.sln",
+    "projects": [
+      "RestApiCleanArch.Application\\Application.csproj",
+      "RestApiCleanArch.Common\\Common.csproj",
+      "RestApiCleanArch.Domain\\Domain.csproj",
+      "RestApiCleanArch.Infraestructure\\Infraestructure.csproj",
+      "RestApiCleanArch.Persistence\\Persistence.csproj",
+      "RestApiCleanArch.WebUi\\WebUi.csproj"
+    ]
+  }
+}

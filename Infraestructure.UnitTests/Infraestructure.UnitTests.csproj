@@ -5,9 +5,9 @@
 
     <IsPackable>false</IsPackable>
 
-    <RootNamespace>FitoReport.Infraestructure.UnitTests</RootNamespace>
+    <RootNamespace>RestApiCleanArch.Infraestructure.UnitTests</RootNamespace>
 
-    <AssemblyName>FitoReport.Infraestructure.UnitTests</AssemblyName>
+    <AssemblyName>RestApiCleanArch.Infraestructure.UnitTests</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FitoReport.Infraestructure\Infraestructure.csproj" />
+    <ProjectReference Include="..\RestApiCleanArch.Infraestructure\Infraestructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace FitoReport.Infraestructure.UnitTests
+namespace RestApiCleanArch.Infraestructure.UnitTests
 {
     public class RandomGeneratorTests
     {
